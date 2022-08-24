@@ -1,0 +1,22 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/E-badge.png", 
+            "title": "NCR E-badge",
+            "description": "Streamline the essential day to day functions of an NCR employee to minimize security risks and optimize efficiency with E-badge. E-badge provides a centralized and user friendly platform for employees to scan in and out of NCR facilities, pay at GHQ based restaurants, track hours spent at work, and chat with HR at any time.",
+            "url": "https://ncr.brightidea.com/D1519?idea_count=372"
+        },
+        {
+            "cover": "/portfolio/1/Dine-n-dash.png", 
+            "title": "Dine 'n Dash",
+            "description": "This app provides users with the current wait time and reviews of every dining hall on Georgia Tech's campus. Users can leave input and feedback so other users can determine the best dining hall for a meal on a given day.",
+            "url": "https://devpost.com/software/dine-n-dash"
+        },
+        {
+            "cover": "/portfolio/1/task.png", 
+            "title": "Bharata",
+            "description": "Created a platform that allowed over 100 students to keep track of homework, tests, and fees at a local dance school.",
+            "url": "https://github.com/Rudha1/Bharata-Student"
+        }
+    ]
+}
