@@ -4,7 +4,7 @@
             "cover": "/portfolio/1/E-badge.png", 
             "title": "NCR E-badge",
             "description": "Streamline the essential day to day functions of an NCR employee to minimize security risks and optimize efficiency with E-badge. E-badge provides a centralized and user friendly platform for employees to scan in and out of NCR facilities, pay at GHQ based restaurants, track hours spent at work, and chat with HR at any time.",
-            "url": "https://github.com/Rudha1/NcrHackathon1"
+            "url": "https://github.com/Rudha1/NcrHackathon1.git"
         },
         {
             "cover": "/portfolio/1/Dine-n-dash.png", 
@@ -16,7 +16,7 @@
             "cover": "/portfolio/1/task.png", 
             "title": "Bharata",
             "description": "Created a platform that allowed over 100 students to keep track of homework, tests, and fees at a local dance school.",
-            "url": "https://github.com/Rudha1/Bharata-Student"
+            "url": "https://github.com/Rudha1/Bharata-Student.git"
         }
     ]
 }
